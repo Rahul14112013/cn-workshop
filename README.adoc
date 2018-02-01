@@ -62,10 +62,8 @@ Domain Driven Design (DDD)::
 * http://static.olivergierke.de/lectures/ddd-and-spring/[Domain-Driven Design and Spring]
 
 == Java 9 
-IMPORTANT: error - February 2018
-JDK 9 has deprecated the java.xml.bind module which is to be removed, see: https://docs.oracle.com/javase/9/docs/api/java.xml.bind-summary.html
-
-If you get a Class Not Found exception for JAXB `java.lang.ClassNotFoundException: javax.xml.bind.JAXBException` then in the Maven pom.xml add:
+IMPORTANT: as of February 2018
+JDK 9 has deprecated the java.xml.bind module which is to be removed, see: https://docs.oracle.com/javase/9/docs/api/java.xml.bind-summary.html. If you get a Class Not Found exception for JAXB `java.lang.ClassNotFoundException: javax.xml.bind.JAXBException` then in the Maven pom.xml add:
 
 [source,xml]
 ----
