@@ -50,6 +50,13 @@ To follow along with the lab exercises, please clone this git repo on your local
 $ git clone https://github.com/cdevpivotal/cn-workshop.git
 ----
 
+== Online references
+
+Free ebooks::
+* link:Beyond the 12 Factor App: Exploring the DNA of Highly Scalable, Resilient Cloud Applications [https://content.pivotal.io/ebooks/beyond-the-12-factor-app]
+* link:Microservices eBook: Migrating to Cloud-Native Application Architectures [https://content.pivotal.io/ebooks/migrating-to-cloud-native-application-architectures]
+* link:Selections from Cloud Native: Designing Change-Tolerant Software [https://content.pivotal.io/ebooks/cloud-native-designing-change-tolerant-software]
+
 == IDE Setup and tips
 
 TIP: This section shares some optional tips for configuring your IDE for an optimal experience during the workshop!
