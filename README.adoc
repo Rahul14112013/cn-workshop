@@ -57,6 +57,10 @@ Free ebooks::
 * https://content.pivotal.io/ebooks/migrating-to-cloud-native-application-architectures[Microservices eBook: Migrating to Cloud-Native Application Architectures]
 * https://content.pivotal.io/ebooks/cloud-native-designing-change-tolerant-software[Selections from Cloud Native: Designing Change-Tolerant Software]
 
+Domain Driven Design (DDD)::
+* https://spring.io/blog/2016/11/15/springone-platform-2016-replay-ddd-rest-domain-driven-apis-for-the-web[DDD & REST - Domain Driven APIs for the web]
+* http://static.olivergierke.de/lectures/ddd-and-spring/[Domain-Driven Design and Spring]
+
 == IDE Setup and tips
 
 TIP: This section shares some optional tips for configuring your IDE for an optimal experience during the workshop!
