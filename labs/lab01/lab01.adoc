@@ -18,7 +18,7 @@ Spring Boot makes it easy to create stand-alone, production-grade Spring based A
 
 . Browse to https://start.spring.io[Spring Initializr]
 
-. Generate a `Maven Project` with `Java` and Spring Boot `{spring-boot-version}`
+. Generate a `Maven Project` with `Java` and Spring Boot `{spring-boot-version}` for example: 1.5.18
 
 . Fill out the *Project metadata* fields as follows:
 
